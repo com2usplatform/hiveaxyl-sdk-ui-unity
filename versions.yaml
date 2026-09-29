@@ -1,0 +1,5 @@
+# UI Kit release version, and the engine versions it is verified against.
+# Unreal is absent until it ships and is verified (policy: Unity first).
+version: 1.0.0
+engines:
+  unity: "6000.4"

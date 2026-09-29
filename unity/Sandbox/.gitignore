@@ -1,0 +1,8 @@
+# The Kit itself is copied in from ../UI-Kit by sync-kit.sh; the source of
+# truth stays in one place and the copy matches how a game consumes it.
+/Assets/UI-Kit/
+/Assets/UI-Kit.meta
+
+# TMP Essential Resources: imported by the scene builder, not committed.
+/Assets/TextMesh Pro/
+/Assets/TextMesh Pro.meta
