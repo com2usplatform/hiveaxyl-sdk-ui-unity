@@ -1,0 +1,21 @@
+Hive Axyl Reference UI Kit
+Copyright 2026 Com2uS Platform Corp.
+
+This product is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full license text.
+
+------------------------------------------------------------------------
+THIRD-PARTY NOTICES
+
+This product includes the third-party software listed below. The notices
+required by each component's license are reproduced verbatim.
+
+Noto Sans KR / Noto Sans JP 2.004
+  Files:    unity/UI-Kit/Fonts/NotoSansKR-*.otf, unity/UI-Kit/Fonts/NotoSansJP-*.otf
+  Homepage: https://github.com/notofonts/noto-cjk
+  License:  OFL-1.1
+  Copyright 2014-2021 Adobe (http://www.adobe.com/). Noto is a trademark of
+  Google Inc.
+
+  This Font Software is licensed under the SIL Open Font License,
+  Version 1.1. The full license text is in unity/UI-Kit/Fonts/OFL.txt.

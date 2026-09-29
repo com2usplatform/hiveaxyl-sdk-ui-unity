@@ -1,0 +1,17 @@
+{
+    "name": "Hive.Axyl.UIKit.Sandbox",
+    "rootNamespace": "Hive.Axyl.UIKit.Sandbox",
+    "references": [
+        "Hive.Axyl.UIKit",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

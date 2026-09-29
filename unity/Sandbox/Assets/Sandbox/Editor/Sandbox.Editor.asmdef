@@ -1,0 +1,20 @@
+{
+    "name": "Hive.Axyl.UIKit.Sandbox.Editor",
+    "rootNamespace": "Hive.Axyl.UIKit.Sandbox.Editor",
+    "references": [
+        "Hive.Axyl.UIKit.Sandbox",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
