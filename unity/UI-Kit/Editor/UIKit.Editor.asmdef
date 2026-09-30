@@ -1,0 +1,19 @@
+{
+  "name": "Hive.Axyl.UIKit.Editor",
+  "rootNamespace": "Hive.Axyl.UIKit.Editor",
+  "references": [
+    "Hive.Axyl.UIKit",
+    "UnityEngine.UI",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
